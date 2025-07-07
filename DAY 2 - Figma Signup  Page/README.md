@@ -4,7 +4,7 @@ A sleek and modern sign-up page built using **HTML** and **CSS**, featuring a re
 
 ## 📁 Folder Structure
 
-├── index.html ├── styles.css 
+├── Signup.html ├── styles.css 
 
 
 
