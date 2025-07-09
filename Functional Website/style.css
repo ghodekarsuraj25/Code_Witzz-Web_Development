@@ -79,7 +79,7 @@ nav {
     padding-bottom: 6px;
     padding-left: 25px;
 
-
+    cursor: pointer;
     font-family: Manrope;
     font-weight: 600;
     font-style: SemiBold;
@@ -91,6 +91,7 @@ nav {
 }
 
 .signup {
+    cursor: pointer;
     width: 176;
     height: 41px;
     background-color: black;
@@ -121,11 +122,11 @@ nav ul li a {
 }
 
 nav ul li {
-
+    font-weight: 600;
     font-family: Manrope;
     font-weight: 600;
     font-style: SemiBold;
-    font-size: 14px;
+    font-size: 15px;
     leading-trim: NONE;
     line-height: 24px;
     letter-spacing: 0%;
@@ -142,17 +143,169 @@ header {
 }
 
 .center {
-    align-items: center;
+    width: 697;
+    height: 370;
+    top: 160px;
+    left: 371.5px;
+    angle: 0 deg;
+    opacity: 1;
+    gap: 16px;
+    padding: 6% 27%;
+
+}
+
+.star {
+
+    margin-left: 40%;
+    width: 158;
+    height: 24;
+    angle: 0 deg;
+    opacity: 1;
+    gap: 8px;
+    display: flex;
+
+}
+
+.star p {
+    font-family: Manrope;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 16px;
+    leading-trim: NONE;
+    line-height: 24px;
+    letter-spacing: 0px;
+    vertical-align: middle;
+
+}
+
+.star p span {
+    font-family: Manrope;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    leading-trim: NONE;
+    line-height: 24px;
+    letter-spacing: 0px;
+    vertical-align: middle;
+    color: #616161;
+}
+
+.box {
+    width: 697px;
+    height: 370px;
+    top: 160px;
+    left: 371.5px;
+    angle: 0deg;
+    opacity: 1;
+    gap: 16px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    text-align: center;
-    margin-top: 100px;
-
+    align-items: center;
 }
 
 .brand {
 
     background-color: black;
+
+}
+
+.title {
+    padding-top: 10px;
+    font-family: "Poppins", sans-serif;
+    ;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 32px;
+    leading-trim: NONE;
+    line-height: 74px;
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+.text {
+    width: 70%;
+    height: 90;
+    angle: 0 deg;
+    opacity: 1;
+
+}
+
+.text p {
+    font-family: Manrope;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 18px;
+    leading-trim: NONE;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+.demo {
+    width: 325;
+    height: 48;
+    angle: 0 deg;
+    opacity: 1;
+    gap: 24px;
+    display: flex;
+    justify-content: center;
+}
+
+.b1 {
+    background-color: transparent;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-family: Manrope;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 14px;
+    leading-trim: NONE;
+    line-height: 14px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+
+}
+
+.b2 {
+    background-color: black;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-family: Manrope;
+    color: white;
+    font-family: Manrope;
+    font-weight: 600;
+    font-size: 14px;
+    leading-trim: NONE;
+    line-height: 14px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+
+}
+
+.brand {
+    width: 100%;
+    height: 100px;
+    background-color: #121212;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.b {
+    padding: 0% 3%;
+}
+
+.second {
+
+    background-color: black;
+    width: 100%;
+    height: 3956px;
+    top: 749px;
+    angle: 0 deg;
+    opacity: 1;
 
 }
