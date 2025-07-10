@@ -92,8 +92,18 @@ nav {
 
 .signup {
     cursor: pointer;
+    font-family: Manrope;
+    font-weight: 500;
+    font-size: 16px;
+    leading-trim: NONE;
+    line-height: 24px;
+    letter-spacing: -0.16px;
+    vertical-align: middle;
+    font-family: Manrope;
+    cursor: pointer;
     width: 176;
     height: 41px;
+    color: white;
     background-color: black;
     opacity: 1;
     border-width: 2px;
@@ -512,4 +522,200 @@ letter-spacing: 0%;
 vertical-align: middle;
 color: #84A5AA;
 margin-top: 25px;
+}
+
+#sound{
+     display: flex;
+    margin: 200px 9vw;
+    width: 1236;
+height: 408;
+top: 1813px;
+left: 100px;
+gap: 155px;
+angle: 0 deg;
+opacity: 1;
+
+}
+
+#txt{
+   align-content: center;
+    width: 512;
+height: 78;
+gap: 16px;
+angle: 0 deg;
+opacity: 1;
+
+
+
+}
+
+#txt H3{
+    font-family: Inter;
+font-weight: 700;
+font-style: Bold;
+font-size: 30px;
+leading-trim: NONE;
+line-height: 39px;
+letter-spacing: -0.3px;
+vertical-align: middle;
+COLOR: #FFFCF6;
+padding: 10%;
+
+}
+
+.unlock{
+    padding: 0% 25%;
+    width: 100%;
+    height: 100px;
+    color:  #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 150px;
+}
+
+.unlock h4{
+    font-family:  "DM Sans", sans-serif;
+font-weight: 700;
+font-style: Bold;
+font-size: 56px;
+leading-trim: NONE;
+line-height: 64px;
+letter-spacing: -1px;
+text-align: center;
+vertical-align: middle;
+
+}
+
+.unlock p{
+    font-family: Manrope;
+    color:  #84A5AA;
+
+font-weight: 400;
+font-style: Regular;
+font-size: 20px;
+leading-trim: NONE;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: middle;
+
+}
+
+.abox {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 8vw;
+    padding-bottom: 100px;
+}
+
+.a1{
+    width: 400px;
+height: 180px;
+top: 2607px;
+left: 520px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 8px;
+background: #FFFFFF;
+
+}
+
+.a2{
+    width: 400px;
+height: 180px;
+top: 2607px;
+left: 520px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 8px;
+background: #FFFFFF;
+
+}
+
+.a3{
+    width: 400px;
+height: 180px;
+top: 2607px;
+left: 520px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 8px;
+background: #FFFFFF;
+
+}
+
+.a1 h3, .a2 h3, .a3 h3 {
+  font-family: Manrope;
+font-weight: 700;
+font-style: Bold;
+font-size: 16px;
+leading-trim: NONE;
+line-height: 24px;
+letter-spacing: 0%;
+vertical-align: middle;
+padding-left: 20px;
+padding-top: 8px;
+    
+}
+
+.a1 p, .a2 p, .a3 p {
+    font-family: Manrope;
+    padding: 7%;
+    padding-bottom: 0%;
+}
+
+.q{
+    border-radius: 9px 5px 0px 0px;
+    height: 20%;
+background-color: #FFE090;
+;
+
+}
+
+
+
+.e{
+     border-radius: 9px 5px 0px 0px;
+    height: 20%;
+background-color: #CEF298;
+;
+
+}
+
+.r{
+     border-radius: 9px 5px 0px 0px;
+    height: 20%;
+background: #AADBE1;
+
+
+}
+
+.word{
+    text-align: center;
+    width: 100%;
+height: 1076px;
+top: 2880px;
+angle: 0 deg;
+opacity: 1;
+background: linear-gradient(180deg, #CEFFB8 0%, #91F2CF 59%, #3CFFCE 100%);
+
+}
+
+.word h2{
+    padding: 80px;
+    font-family: "DM Sans", sans-serif;
+font-weight: 700;
+font-style: Bold;
+font-size: 56px;
+leading-trim: NONE;
+line-height: 64px;
+letter-spacing: -1px;
+text-align: center;
+vertical-align: middle;
+
 }
