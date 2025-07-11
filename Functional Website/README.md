@@ -1,6 +1,6 @@
 # Functional Website - Code Witzz Web Development
 
-This is a **Functional Website** project developed as part of the Code_Witzz Web Development series. The project demonstrates a simple yet structured layout of a modern website using **HTML**, **CSS**
+This is a **Functional Website** project developed as part of the Code_Witzz Web Development series. The project demonstrates a simple yet structured layout of a modern website using **HTML** & **CSS**
 ## 🌐 Project Overview
 
 The website includes:
