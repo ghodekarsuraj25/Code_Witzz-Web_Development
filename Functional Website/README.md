@@ -68,7 +68,7 @@ Functional Website/
 
 ## 📌 Features
 
-- Clean and responsive layout
+- Clean 
 - Simple and elegant UI design
 - Modular file structure
 
