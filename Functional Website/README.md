@@ -1,7 +1,6 @@
 # Functional Website - Code Witzz Web Development
 
-This is a **Functional Website** project developed as part of the Code_Witzz Web Development series. The project demonstrates a simple yet structured layout of a modern website using **HTML**, **CSS**, and basic **JavaScript** functionality.
-
+This is a **Functional Website** project developed as part of the Code_Witzz Web Development series. The project demonstrates a simple yet structured layout of a modern website using **HTML**, **CSS**, and 
 ## 🌐 Project Overview
 
 The website includes:
@@ -9,7 +8,7 @@ The website includes:
 - Navigation bar
 - Sectioned content (e.g., About, Services, Contact)
 - Styling using CSS
-- Basic interactivity using JavaScript (if applicable)
+
 
 ## 📁 Folder Structure
 
@@ -18,8 +17,7 @@ Functional Website/
 │
 ├── index.html          # Main HTML file
 ├── style.css           # CSS file for styling
-├── script.js           # JavaScript for basic interactivity (if present)
-└── assets/             # Images, icons or other assets
+└── logos/             # Images, icons or other assets
 ```
 
 ## 🚀 How to Run Locally
@@ -36,7 +34,6 @@ Functional Website/
 
 3. Open `index.html` in your web browser.
 
-## 📸 Screenshots
 
 ## 📸 Output Screenshots
 
@@ -66,7 +63,7 @@ Functional Website/
 
 - HTML5
 - CSS3
-- JavaScript (optional/if used)
+
 
 ## 📌 Features
 
