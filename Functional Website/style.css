@@ -288,10 +288,12 @@ header {
     line-height: 14px;
     letter-spacing: 0%;
     vertical-align: middle;
+    cursor: pointer;
 
 }
 
 .b2 {
+    cursor: pointer;
     background-color: black;
     border-radius: 8px;
     padding: 10px 20px;
@@ -696,7 +698,10 @@ background: #AADBE1;
 }
 
 .word{
+    display: flex;
+    flex-direction: column;
     text-align: center;
+    align-items: center;
     width: 100%;
 height: 1076px;
 top: 2880px;
@@ -707,7 +712,8 @@ background: linear-gradient(180deg, #CEFFB8 0%, #91F2CF 59%, #3CFFCE 100%);
 }
 
 .word h2{
-    padding: 80px;
+    padding: 80px ;
+    padding-bottom: 30px;
     font-family: "DM Sans", sans-serif;
 font-weight: 700;
 font-style: Bold;
@@ -718,4 +724,171 @@ letter-spacing: -1px;
 text-align: center;
 vertical-align: middle;
 
+}
+
+.pro{
+    
+    display: flex;
+    margin-top: 0px;
+    align-self: center;
+    width: 992px;
+height: 350px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 20px;
+background: #FFFFFF;
+box-shadow: 0px 5px 14px 0px #00000033;
+
+}
+
+.pp{
+    display: flex;
+    flex-direction: column;
+    padding: 8% 5%;
+    justify-content: space-between;;
+    text-align: left;
+}
+
+.pho img{
+     border-radius: 0px 20px 20px 0px;
+}
+
+.DE{
+    display: flex;
+    padding: 3%;
+    margin-top: 15px;
+}
+.name{
+    
+    padding-left: 10px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.pp p{
+    font-family: Manrope;
+font-weight: 500;
+font-style: Medium;
+font-size: 16px;
+leading-trim: NONE;
+line-height: 24px;
+letter-spacing: 0%;
+vertical-align: middle;
+color:  #000000;
+
+}
+
+.name h4{
+    font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 16px;
+leading-trim: NONE;
+line-height: 24px;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #172D30;
+
+
+}
+
+.name h5{
+    font-family: Manrope;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+leading-trim: NONE;
+line-height: 24px;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #000000;
+
+}
+
+.arro{
+
+}
+
+.s{
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+    width: 120px;
+height: 48px;
+angle: 0 deg;
+opacity: 1;
+gap: 24px;
+
+}
+
+.k img{
+    border-radius: 54%;
+ background-color: white;    
+
+
+}
+
+.c img{
+    border-radius: 54%;
+ background-color: white;    
+}
+
+footer{
+
+display: flex;
+background: #000000;
+
+}
+
+footer h5{
+font-family: Manrope;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 16px;
+leading-trim: NONE;
+line-height: 24px;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #FFFFFF;
+padding: 5px;
+cursor: pointer;
+
+}
+
+footer a{
+    padding: 5px;
+    font-family: Manrope;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+leading-trim: NONE;
+line-height: 24px;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #E7E9E9;
+text-decoration: none;
+
+
+}
+
+footer .product{
+    display: flex;
+    margin-left: 10%;
+    flex-direction: column;
+    padding: 20px;
+}
+
+footer .resourses{
+    margin-left: 25%;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.social{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    padding-left: 0%;
 }
