@@ -1,6 +1,6 @@
 # Functional Website - Code Witzz Web Development
 
-This is a **Functional Website** project developed as part of the Code_Witzz Web Development series. The project demonstrates a simple yet structured layout of a modern website using **HTML**, **CSS**, and 
+This is a **Functional Website** project developed as part of the Code_Witzz Web Development series. The project demonstrates a simple yet structured layout of a modern website using **HTML**, **CSS**
 ## 🌐 Project Overview
 
 The website includes:
@@ -17,7 +17,7 @@ Functional Website/
 │
 ├── index.html          # Main HTML file
 ├── style.css           # CSS file for styling
-└── logos/             # Images, icons or other assets
+└── assets/             # Images, icons or other assets
 ```
 
 ## 🚀 How to Run Locally
@@ -33,6 +33,7 @@ Functional Website/
    ```
 
 3. Open `index.html` in your web browser.
+
 
 
 ## 📸 Output Screenshots
