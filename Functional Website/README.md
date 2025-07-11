@@ -39,11 +39,23 @@ Functional Website/
 ## 📸 Screenshots
 
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/9934923b-7da5-4eed-972a-5e5f28b951c7" />
+
+
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/aa2ef970-b39d-40bc-a259-19f28b3f0caa" />
+
+
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/71804711-61b5-450a-b96b-500c9abdd306" />
+
+
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/5cc27557-b085-4324-a7b5-619fc5cb31f2" />
+
+
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/83adcf82-2cb1-4f9c-9033-1ce9ef50472d" />
+
+
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/372e2d35-9beb-4fbd-a411-f0e1f6b60d5d" />
+
+
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/d4b4911f-3033-4ce3-a1c3-020cd6191af6" />
 
 ## 🔧 Technologies Used
