@@ -9,6 +9,11 @@ The website includes:
 - Sectioned content (e.g., About, Services, Contact)
 - Styling using CSS
 
+## 🚀 Live Demo (Netlify)
+
+🔗 [Click here to view the live website](https://YOUR_NETLIFY_LINK_HERE.netlify.app)
+
+> _Hosted via Netlify for quick and easy access to the project output._
 
 ## 📁 Folder Structure
 
