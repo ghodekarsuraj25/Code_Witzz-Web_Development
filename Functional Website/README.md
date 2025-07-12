@@ -11,7 +11,7 @@ The website includes:
 
 ## 🚀 Live Demo (Netlify)
 
-🔗 [Click here to view the live website](https://YOUR_NETLIFY_LINK_HERE.netlify.app)
+🔗 [Click here to view the live website](https://firstfunctionalweb.netlify.app/)
 
 > _Hosted via Netlify for quick and easy access to the project output._
 
