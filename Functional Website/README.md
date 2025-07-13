@@ -9,6 +9,7 @@ The website includes:
 - Sectioned content (e.g., About, Services, Contact)
 - Styling using CSS
 
+
 ## 🚀 Live Demo (Netlify)
 
 🔗 [Click here to view the live website](https://firstfunctionalweb.netlify.app/)
