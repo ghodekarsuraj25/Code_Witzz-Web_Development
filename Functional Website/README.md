@@ -4,7 +4,6 @@ This is a **Functional Website** project developed as part of the Code_Witzz Web
 ## 🌐 Project Overview
 
 The website includes:
-- A fully responsive homepage
 - Navigation bar
 - Sectioned content (e.g., About, Services, Contact)
 - Styling using CSS
