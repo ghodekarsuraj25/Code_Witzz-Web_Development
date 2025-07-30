@@ -48,22 +48,30 @@
 
 > _Hosted via Netlify for quick and easy access to the project output._
 
-### 📸 Screenshots
+# 📸 Screenshots
 
 
 ## 👉 Initial View (No Tasks)
 
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/6737bfa0-63f2-4ebe-b156-df8f788170e5" />
 
----
+
+
+
 ## 👉 Dashboard & Tasks
 
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/3f17829f-01bf-4e54-8ee1-5c691e144790" />
----
+
+
+
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/28c35888-e1fa-4e14-b9c3-500dd40fbeeb" />
----
+
+
+
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/178af81e-f273-47e1-9217-bf33119759e6" />
----
+
+
+
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/288a1b21-9260-49a7-bc9c-dda495f7b142" />
 
 
