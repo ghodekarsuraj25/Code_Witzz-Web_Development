@@ -30,6 +30,9 @@
 ---
 
 ## 🗂️ Project Structure
+
+
+```
 📁 TaskForge/
 ├── index.html # Main HTML layout
 ├── style.css # All styling for components
@@ -37,17 +40,32 @@
 ├── /images # Assets like background and delete icon
 ├── /logo # Icons for priority and dashboard stats
 └── README.md # Project documentation
+```
 
 ## 🔮 Live Demo
-🌐 Netlify Live Link
+
+🔗 [Click here to view the live website](https://todo-manage-application.netlify.app/)
+
+> _Hosted via Netlify for quick and easy access to the project output._
 
 ## 📸 Screenshots
 Replace these paths with actual GitHub CDN links after uploading
 
 ## 👉 Initial View (No Tasks)
 
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/6737bfa0-63f2-4ebe-b156-df8f788170e5" />
+
 
 ## 👉 Dashboard & Tasks
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/3f17829f-01bf-4e54-8ee1-5c691e144790" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/28c35888-e1fa-4e14-b9c3-500dd40fbeeb" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/178af81e-f273-47e1-9217-bf33119759e6" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/288a1b21-9260-49a7-bc9c-dda495f7b142" />
+
 
 ## 🚀 Future Enhancements
 
@@ -59,8 +77,10 @@ Sort & filter tasks by date/priority
 
 Add user authentication for saving tasks online
 
-# 🧑‍💻 Author
-Made with ❤️ by [Your Name]
+## 🧑‍💻 Author
 
+**Suraj Ghodekar**  
+[GitHub Profile](https://github.com/ghodekarsuraj25)
 
+---
 
