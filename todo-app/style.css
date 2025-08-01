@@ -2,19 +2,16 @@
     padding: 0px;
     margin: 0px;
 }
-
 html,
 body {
     min-height: 100vh;
     width: 100%;
     font-family: "Geist", sans-serif;
 }
-
 body {
     background: linear-gradient(to left, #f9f9fA, #f4f4f5);
     padding-top: 2.5rem;
 }
-
 #hero-head {
     font-size: 48px;
     font-weight: 700;
@@ -23,7 +20,6 @@ body {
     display: flex;
     padding-bottom: 0.6rem;
 }
-
 .hero-main p {
     font-size: 18px;
     font-weight: 400;
@@ -32,7 +28,6 @@ body {
     justify-content: center;
     color: #71717a;
 }
-
 .container {
     display: flex;
     flex-direction: column;
@@ -47,18 +42,15 @@ body {
     height: fit-content;
     border: 1px solid #e4e4e7;
 }
-
 .container h1 {
     font-size: 20px;
 }
-
 .container p {
     font-size: 16px;
     font-weight: 400;
     text-align: center;
     color: #71717a;
 }
-
 .container button {
     padding: 14px;
     color: #ffff;
@@ -69,15 +61,10 @@ body {
     margin-top: 1rem;
     border: none;
 }
-
 #plus-btn {
- 
-   
     position:fixed;
     margin: 40% 45%;
-  
 }
-
 #plus-btn button {
     width: 56px;
     height: 56px;
@@ -95,37 +82,6 @@ body {
     position: fixed;
     z-index: 1000;
 }
-#popup{
-    position: absolute;
-    top: 0;
-    left: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100%;
-    width: 100%;
-    backdrop-filter: blur(3px);
-}
-.popup-content{
-    background-color: #E2E4E5;
-  height:30rem;
-  width: 30rem;
-  border-radius: 20px;
-  padding: 25px;
-}
-.Prioriti{
-    display: flex;
-    padding: 5px;
-}
-.inner-div{
-    display: flex;
-    flex-direction: row;
-margin-left: 15px;
-background-color: #E4FBED;
-border-radius: 10px;
-padding:5px 13px;
-}
-
 #popup {
   position: absolute;
   top: 0;
@@ -146,7 +102,6 @@ padding:5px 13px;
   border-radius: 20px;
   padding: 25px;
 }
-
 .Priority {
   display: flex;
   padding: 5px;
@@ -164,12 +119,10 @@ padding:5px 13px;
   font-size: 18px;
   border-radius: 9999px;
 }
-
 .inner-div img {
   width: 20px;
   height: 20px;
 }
-
 .cancel,
 .save-task {
   width: 194px;
@@ -180,7 +133,6 @@ padding:5px 13px;
   font-weight: 500;
   font-size: 16px;
 }
-
 #name {
   width: 420px;
   height: 30px;
@@ -191,28 +143,22 @@ padding:5px 13px;
   font-weight: 500;
   font-size: 16px;
 }
-
 .btns {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
 }
-
 body {
   font-family: 'Segoe UI', sans-serif;
-
 }
-
 #dashboard {
  position: absolute;
   gap: 1.5rem;
   flex-wrap: wrap;
   justify-content: center;
-  margin-top: 50px;
-  
+  margin-top: 50px; 
   width: 100%;
 }
-
 .card {
   background-color: #121e2b;
   color: white;
@@ -221,37 +167,31 @@ body {
   width: 200px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
-
 .card-box {
   display: flex;
   justify-content: space-between;
   font-weight: 600;
   margin-bottom: 1rem;
 }
-
 .icon {
   background-color: #2b3543;
   padding: 0.4rem 0.6rem;
   border-radius: 8px;
 }
-
 .value {
   font-size: 2rem;
   font-weight: bold;
 }
-
 .sub-values {
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
 }
-
 .sub-item {
   display: flex;
   justify-content: space-between;
   font-size: 0.95rem;
 }
-
  .show {
       margin-top: 20px;
       background: #fff;
@@ -263,27 +203,22 @@ body {
       align-items: center;
       justify-content: space-between;
     }
-
     .left-section {
       display: flex;
       align-items: flex-start;
       gap: 10px;
     }
-
     .checkbox {
       margin-top: 5px;
     }
-
     .content {
       display: flex;
       flex-direction: column;
     }
-
     .title {
       font-weight: bold;
       margin-bottom: 8px;
     }
-
     .badge {
       display: inline-flex;
       align-items: center;
@@ -295,28 +230,23 @@ body {
       font-size: 12px;
       font-weight: 500;
     }
-
     .date {
       font-size: 13px;
       color: #888;
       margin-top: 5px;
     }
-
     .delete-icon {
       color: #888;
       cursor: pointer;
       font-size: 16px;
     }
-
     .delete-icon:hover {
       color: #c00;
     }
-
     #abc{
       display: flex;
       justify-content: space-between;
     }
-
     #delete{
       color: transparent;
       background: transparent;
