@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quiz</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="navbar">
+    <div class="logo"> <img src="logos/Depth.png" alt=""> <span> QuizMaster</span></div>
+   <img src="logos/bell.png" alt="" id="bell" >
+    <div class="menu">
+      <nav id="nav">
+        <a href="" onclick="start()">Home</a>
+        <a href="#">Categories</a>
+        <a href="#">Leaderboard</a>
+        <a href="#">Profile</a>
+        <a href="" class="note"> <img src="logos/Frame 1.png" alt=""></a>   
+        <a id="pho" href=""> <img src="logos/photo.png" alt=""></a>
+      </nav>
+    </div>
+  </header>
+  <main class="main" id="main">
+    <h1 id="h1chenge"></h1>
+    <p id="pchenge"> </p>
+    <button class="start-btn" onclick="start()">Start Quiz</button>
+  </main>
+  <div class="container" id="question-box" style="display: none;">
+    <div class="progress-container">
+      <div class="progress-text">Question 1 of 10</div>
+      <div class="progress-bar">
+        <div class="progress-bar-fill"></div>
+      </div>
+    </div>
+    <div class="timer">
+      <div class="timer-box">
+        <span>00</span>
+        Minutes
+      </div>
+      <div class="timer-box">
+        <span>30</span>
+        Seconds
+      </div>
+    </div>
+    <div class="quiz-container">
+    <h2>What is the capital of France?</h2>
+    <label class="option">
+      <input type="radio" name="answer" checked>
+      London
+    </label>
+    <label class="option">
+      <input type="radio" name="answer">
+      Paris
+    </label>
+    <label class="option">
+      <input type="radio" name="answer">
+      Berlin
+    </label>
+    <label class="option">
+      <input type="radio" name="answer">
+      Rome
+    </label>
+  </div>
+ <div id="next-btn">
+      <button onclick="showResult()">Next</button>
+    </div>
+    </div>  
+  </div>
+  <div id="container">
+    <h1>Congratulations, Sarah!</h1>
+    <p>You've completed the quiz with a score of</p>
+    <div class="score" id="result"></div>
+    <button class="button retake" onclick="start()">Retake Quiz</button>
+    <button class="button start" onclick="start()">Return to Start</button>
+  </div>
+  <footer class="bottom" id="bottom">
+    <a href="" onclick="start()" class="active"><img src="logos/home.png" alt=""><span>Home</span></a>
+    <a href="#"> <img src="logos/cate.png" alt=""> <span>Categories</span></a>
+    <a href="#"> <img src="logos/lead.png" alt=""><span>Leaderboard</span></a>
+    <a href="#"> <img src="logos/pro.png" alt=""><span>Profile</span></a>
+  </footer>
+</body>
+<script src="script.js"></script>
+</html>
