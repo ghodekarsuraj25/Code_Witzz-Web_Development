@@ -30,3 +30,36 @@ function showResult() {
    document.getElementById("question-box").style.display = "none";
   resultBox.innerHTML = `<h4>85%</h4>`;
 }
+document.getElementById("dark-toggle").addEventListener("click", function () {
+  document.body.classList.toggle("dark");
+  this.textContent = document.body.classList.contains("dark") ? "☀️" : "🌙";
+  const img = document.getElementById("logoimg");
+  img.src = document.body.classList.contains("dark")
+    ? "logos/Depth.png"
+    : "logos/whitelogo.png";
+  const imgs = document.getElementById("notes");
+  imgs.src = document.body.classList.contains("dark")
+    ? "logos/Frame 1.png" 
+    :"logos/bbell.png" ;
+     const imga = document.getElementById("home");
+  imga.src = document.body.classList.contains("dark")
+     ? "logos/whome.png"
+    :  "logos/home.png";
+     const imgb = document.getElementById("cat");
+  imgb.src = document.body.classList.contains("dark")
+    ?"logos/wcat.png"
+    :"logos/cat.png";
+     const imgc = document.getElementById("lead");
+  imgc.src = document.body.classList.contains("dark")
+    ? "logos/wlead.png"
+    :  "logos/lead.png";
+     const imgd = document.getElementById("pro");
+  imgd.src = document.body.classList.contains("dark")
+    ? "logos/wpro.png"
+    : "logos/pro.png";
+       const imge = document.getElementById("bell");
+  imge.src = document.body.classList.contains("dark")
+    ? "logos/sbell.png"
+    : "logos/bell.png";
+});
+

@@ -23,6 +23,14 @@ body {
     justify-items: center;
     display: flex;
 }
+
+.icon::before {
+  content: url('logos/whitelogo.png');
+}
+
+#logoimg{
+    image: url('logos/whitelogo.png');
+}
 .logo span {
     padding-left: 10px;
 }
@@ -30,6 +38,10 @@ body {
     align-items: center;
     justify-items: center;
     display: flex;
+}
+.menu{
+    display: flex;
+    align-items: center;
 }
 .menu nav a {
     font-family: Plus Jakarta Sans;
@@ -96,14 +108,14 @@ body {
 }
 .progress-bar {
     height: 6px;
-    background: #eee;
+    background:#F0F2F5  ;
     border-radius: 4px;
     overflow: hidden;
 }
 .progress-bar-fill {
     height: 100%;
     width: 10%;
-    background-color: #222;
+    background-color:#000000;
 }
 .timer {
     display: flex;
@@ -178,7 +190,7 @@ h2 {
         width: 100%;
         margin-top: 20px;
     }
-    .menu {
+    #nav {
         display: none;
     }
     .main {
@@ -294,4 +306,58 @@ p {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+#dark-toggle{
+    padding: 10px;
+    background-color: gainsboro;
+}
+body.dark {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+body.dark .bottom {
+    display: none;
+}
+body.dark .navbar,
+body.dark .bottom {
+  border-color: white;
+}
+body.dark .bottom  a.active span{
+  color: #ffffff;
+  border-color: #333;
+}
+body.dark .bottom  a span{
+  color: #b3a5a5;
+  border-color: #333;
+}
+body.dark .progress-bar{
+    background-color: #363636;
+}
+body.dark .menu nav a {
+  color: #e0e0e0;
+}
+body.dark .option {
+  border-color: #555;
+}
+body.dark .option:hover {
+  border-color: #999;
+}
+body.dark .timer-box span {
+  background-color: #333;
+}
+body.dark button,
+body.dark .start-btn {
+  background-color: #000000;
+  color: #fff;
+}
+body.dark .start {
+  background-color: #555;
+}
+body.dark .score {
+  color: #fff;
+}
+body.dark h1,
+body.dark h2,
+body.dark p {
+  color: #e0e0e0;
 }
