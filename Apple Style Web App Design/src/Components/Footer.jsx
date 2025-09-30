@@ -6,9 +6,9 @@ function Footer() {
   return (
     <div>
       <footer className="bg-gray-900 text-white">
-        <div className="max-w-7xl mx-auto px-6 py-16">
+        <div className=" max-w-7xl mx-auto px-6 py-16">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-6 gap-12 mb-12">
-            <div className="lg:col-span-2">
+            <div className=" ani1 lg:col-span-2">
               <div className="flex items-center space-x-2 mb-6">
                 <div className="w-8 h-8 bg-gradient-to-br from-blue-500 to-purple-600 rounded-full"></div>
                 <span className="font-semibold text-xl">Cupertino</span>
@@ -18,7 +18,7 @@ function Footer() {
                 experiences. Join thousands of professionals who trust our
                 platform.
               </p>
-              <div className="flex space-x-4">
+              <div className="ani1 flex space-x-4">
                 <a
                   href="#"
                   className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center hover:bg-gray-700 transition-colors duration-200"
@@ -61,7 +61,7 @@ function Footer() {
               />
             ))}
           </div>
-          <div className="pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
+          <div className="ani1 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-gray-400 text-sm">
               © 2024 Cupertino. All rights reserved.
             </p>

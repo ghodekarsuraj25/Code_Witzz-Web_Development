@@ -9,7 +9,7 @@ function Navbar() {
     >
       <div className="max-w-7xl mx-auto px-6">
         <div className="flex items-center justify-between">
-          <div className="flex items-center space-x-3 cursor-pointer">
+          <div className=" ani1 flex items-center space-x-3 cursor-pointer">
             <div className="relative w-9 h-9">
               <div className="absolute inset-0 bg-gradient-to-br from-blue-500 via-purple-500 to-indigo-600 rounded-xl shadow-lg"></div>
               <div className="absolute inset-0.5 bg-white rounded-lg flex items-center justify-center">
@@ -20,10 +20,10 @@ function Navbar() {
               Cupertino
             </span>
           </div>
-          <div className="hidden md:flex items-center space-x-7 ">
-            <a href="">
+          <div className="ani1 hidden md:flex items-center space-x-7 ">
+            <a href="" >
               {" "}
-              <span className=" text-gray-500   font-semibold">Products</span>
+              <span className=" text-gray-500   font-semibold   "  >Products</span>
             </a>
             <a href="">
               {" "}
@@ -38,7 +38,7 @@ function Navbar() {
               <span className=" text-gray-500   font-semibold">Support</span>
             </a>
           </div>
-          <div className="flex items-center space-x-2">
+          <div className="ani1 flex items-center space-x-2">
             <button className="p-3 rounded-xl hover:bg-gray-100 transition-all duration-200 group">
               <img src=".\assets\search.png" alt="" />
             </button>
