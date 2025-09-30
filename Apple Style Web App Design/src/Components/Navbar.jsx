@@ -40,11 +40,11 @@ function Navbar() {
           </div>
           <div className="flex items-center space-x-2">
             <button className="p-3 rounded-xl hover:bg-gray-100 transition-all duration-200 group">
-              <img src="src\assets\search.png" alt="" />
+              <img src=".\assets\search.png" alt="" />
             </button>
             <button className=" p-3 rounded-xl hover:bg-gray-100 transition-all duration-200">
               <div className="md:transform-none">
-                <img src="src\assets\per.png" alt="" />
+                <img src=".\assets\per.png" alt="" />
               </div>
             </button>
             <button
@@ -52,7 +52,7 @@ function Navbar() {
               tabindex="0"
             >
               <div>
-                <img src="src\assets\lines.png" alt="" />
+                <img src=".\assets\lines.png" alt="" />
               </div>
             </button>
           </div>

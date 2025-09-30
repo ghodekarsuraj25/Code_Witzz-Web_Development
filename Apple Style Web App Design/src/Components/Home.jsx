@@ -28,7 +28,7 @@ function Home() {
           <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-purple-600 opacity-0 group-hover:opacity-100"></div>
           <span className="relative z-10">Get Started</span>
           <div className="relative z-10">
-            <img src="src\assets\wa.png" alt="" />
+            <img src=".\assets\wa.png" alt="" />
           </div>
         </button>
         <button
@@ -36,7 +36,7 @@ function Home() {
           tabindex="0"
         >
           <div>
-            <img src="src\assets\play.png" alt="" />
+            <img src=".\assets\play.png" alt="" />
           </div>
           <span>Watch Demo</span>
         </button>
@@ -44,7 +44,7 @@ function Home() {
       <div className="relative p-2 md:p-4">
         <div className="relative rounded-2xl overflow-hidden">
           <img
-            src="src\assets\troffy.jpg"
+            src=".\assets\troffy.jpg"
             className="w-full h-96 md:h-[500px] object-cover"
             alt=""
           />
@@ -56,7 +56,7 @@ function Home() {
         <div className="mb-8">
           <span className="inline-flex items-center space-x-2 px-6 py-3 bg-gradient-to-r from-blue-50 via-purple-50 to-indigo-50 border border-blue-100/50 text-blue-700 rounded-full text-sm font-semibold backdrop-blur-sm shadow-lg cursor-pointer">
             <div>
-              <img src="src\assets\star.png" alt="" />
+              <img src=".\assets\star.png" alt="" />
             </div>
             <span>Powerful Features</span>
           </span>
@@ -99,7 +99,7 @@ function Home() {
             <span className="relative z-10 flex items-center space-x-3">
               <span className="text-lg">Explore All Features</span>
               <div className="flex items-center">
-                <img src="src\assets/wa.png" alt="" />
+                <img src=".\assets/wa.png" alt="" />
               </div>
             </span>
             <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent transform -skew-x-12"></div>

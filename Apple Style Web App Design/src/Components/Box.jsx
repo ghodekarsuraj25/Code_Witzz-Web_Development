@@ -15,7 +15,7 @@ function Box({ name, de, logo }) {
           </p>
         </div>
         <div className="text-blue-400 group-hover:text-blue-300 transition-colors duration-300">
-          <img src="./src\assets\arrow.png" alt="" />
+          <img src=".\assets\arrow.png" alt="" />
         </div>
       </div>
     </div>

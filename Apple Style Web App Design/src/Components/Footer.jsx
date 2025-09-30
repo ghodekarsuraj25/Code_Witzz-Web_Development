@@ -25,7 +25,7 @@ function Footer() {
                   aria-label="GitHub"
                   tabindex="0"
                 >
-                  <img src="src\assets\in.png" alt="" />
+                  <img src=".\assets\in.png" alt="" />
                 </a>
                 <a
                   href="#"
@@ -33,7 +33,7 @@ function Footer() {
                   aria-label="Twitter"
                   tabindex="0"
                 >
-                  <img src="src\assets\twit.png" alt="" />
+                  <img src=".\assets\twit.png" alt="" />
                 </a>
                 <a
                   href="#"
@@ -41,7 +41,7 @@ function Footer() {
                   aria-label="LinkedIn"
                   tabindex="0"
                 >
-                  <img src="src\assets\git.png" alt="" />
+                  <img src=".\assets\git.png" alt="" />
                 </a>
                 <a
                   href="#"
@@ -49,7 +49,7 @@ function Footer() {
                   aria-label="Email"
                   tabindex="0"
                 >
-                  <img src="src\assets\mails.png" alt="" />
+                  <img src=".\assets\mails.png" alt="" />
                 </a>
               </div>
             </div>
