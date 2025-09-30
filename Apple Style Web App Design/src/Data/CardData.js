@@ -38,7 +38,7 @@ const cardData = [
     title: "Global Collaboration",
     dec:
       "Real-time collaboration tools that bring teams together from anywhere in the world with seamless sync and version control.",
-    img: "/public/assets/card6.png",
+    img: "./assets/card6.png",
     clr: "from-indigo-500 via-blue-600 to-purple-600"
   },
 ];
