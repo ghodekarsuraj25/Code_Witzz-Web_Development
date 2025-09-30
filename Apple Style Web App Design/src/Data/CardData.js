@@ -3,14 +3,14 @@ const cardData = [
     title: "Intelligent Design",
     dec:
       "AI-powered design suggestions that adapt to your creative vision and enhance your workflow.",
-    img: "./src/assets/card1.png",
+    img: "/assets/card1.png",
     clr: "from-yellow-400 via-orange-500 to-red-500"
   },
   {
     title: "Lightning Fast",
     dec:
       "Experience blazing-fast performance with our optimized rendering engine that handles complex projects effortlessly at 60fps.",
-    img: "./src/assets/card2.png",
+    img: "./assets/card2.png",
     clr: "from-blue-500 via-cyan-500 to-teal-500 "
   },
   {
